@@ -1,0 +1,1 @@
+body{background-color:gray}.formulario{display:flex;flex-direction:column;gap:1rem}#app{display:grid;justify-content:center;justify-items:center;gap:1rem}#boton_enviar{background-color:green;color:#fff}
