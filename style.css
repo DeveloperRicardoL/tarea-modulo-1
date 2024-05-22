@@ -1,5 +1,7 @@
 body {
   background-color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 1rem;
 }
 
 .formulario {
@@ -14,7 +16,17 @@ body {
   justify-items: center;
   gap: 1rem;
 }
+
+#nombre {
+  padding: 4px;
+  border-radius: 7px;
+  font-size: 1rem;
+}
+
 #boton_enviar {
   background-color: green;
   color: white;
+  padding: 4px;
+  border-radius: 7px;
+  font-size: 1rem;
 }
